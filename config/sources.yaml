@@ -1,0 +1,24 @@
+rss_sources:
+  - name: Reuters Business
+    category: finance
+    url: https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best
+
+  - name: Reuters Technology
+    category: technology
+    url: https://www.reutersagency.com/feed/?best-topics=tech&post_type=best
+
+  - name: CNBC Top News
+    category: finance
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+
+  - name: TechCrunch
+    category: technology
+    url: https://techcrunch.com/feed/
+
+  - name: The Verge
+    category: technology
+    url: https://www.theverge.com/rss/index.xml
+
+  - name: Federal Reserve Press Releases
+    category: macro
+    url: https://www.federalreserve.gov/feeds/press_all.xml
